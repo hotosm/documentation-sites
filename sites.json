@@ -1,0 +1,16 @@
+{
+    "sites": [
+        {
+            "name": "Toolbox",
+            "url": "https://hotosm.github.io/toolbox/"
+        },
+        {
+            "name": "PDC Documentation",
+            "url": "https://hotosm.github.io/pdc-documentation/"
+        },
+        {
+            "name": "UAV Guidelines",
+            "url": "https://uav-guidelines.openaerialmap.org/"
+        }
+    ]
+}
